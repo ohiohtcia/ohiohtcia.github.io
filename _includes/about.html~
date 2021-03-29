@@ -12,7 +12,7 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -44,42 +44,28 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2007</h4>
-                                    <h4 class="subheading">Student Charter</h4>
+                                    <h4>December 2012</h4>
+                                    <h4 class="subheading">Transition to Full Service</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">We became one of the first Chapters to adopt Charter memberships, offering university students a cost-effective membership option that opens doors to training and networking opportunities.</p>
+                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                                 </div>
                             </div>
                         </li>
-                        <li>
+                        <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2007-Present</h4>
-                                    <h4 class="subheading">Sprint Training Conference</h4>
+                                    <h4>July 2014</h4>
+                                    <h4 class="subheading">Phase Two Expansion</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Every year, we host a local training conference at the serene Salt Fork Lodge & Conference center.</p>
+                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                                 </div>
                             </div>
                         </li>
-                        <!--<li class="timeline-inverted">-->
-                        <!--    <div class="timeline-image">-->
-                        <!--        <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">-->
-                        <!--    </div>-->
-                        <!--    <div class="timeline-panel">-->
-                        <!--        <div class="timeline-heading">-->
-                        <!--            <h4>July 2014</h4>-->
-                        <!--            <h4 class="subheading">Phase Two Expansion</h4>-->
-                        <!--        </div>-->
-                        <!--        <div class="timeline-body">-->
-                        <!--            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>-->
-                        <!--        </div>-->
-                        <!--    </div>-->
-                        <!--</li>-->
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>Be Part
