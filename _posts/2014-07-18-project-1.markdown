@@ -1,15 +1,12 @@
 ---
 title: Links
-subtitle: Website Design
+subtitle: Websites we like and recommend you check out
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2022-03-01
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: Here below
 
 Organizations
@@ -29,11 +26,14 @@ Organizations
 Vendors
 -------
 
-*   [Access Data](http://www.accessdata.com/)
+*   [Paraben](https://paraben.com/)
+*   [X-Ways](https://www.x-ways.net/)
+*   [Magnet Forensics](https://www.magnetforensics.com/)
+*   [Cellebrite](https://www.cellebrite.com/en/home/)
+*   [Access Data (FTK)](http://www.accessdata.com/)
+*   [OpenText (Formerly Guidance EnCase)](https://security.opentext.com/)
 *   [Digital Intelligence](http://www.digitalintelligence.com/)
-*   [Guidance Software](http://www.guidancesoftware.com/)
-
-[HTCIA Star Supporters](http://www.htcia.org/supporters/)
+*   [Truxton](https://truxtonforensics.com/)
 
 Training
 --------
